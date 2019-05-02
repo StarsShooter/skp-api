@@ -1,26 +1,11 @@
 {
-  "experiences": [
+  "posts": [
     {
       "id": 1,
-      "fromMonth": "12",
-      "fromYear": "2010",
-      "toMonth": "11",
-      "toYear": "2011",
-      "job": "Front-End Developer",
-      "company": "Migros IT",
-      "sector": "IT",
-      "country": "Switzerland"
-    },
-    {
-      "id": 2,
-      "fromMonth": "11",
-      "fromYear": "2011",
-      "toMonth": "11",
-      "toYear": "2015",
-      "job": "Business Analyst",
-      "company": "UBS",
-      "sector": "IT",
-      "country": "Switzerland"
+      "title": "hello"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
