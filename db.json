@@ -1,36 +1,36 @@
 {
   "categories": [
       {
-        "catId": 1,
+        "id": 1,
         "catTitle": "Experiences",
         "type": "form",
         "body": ["From","To","Job","Company","Sector","Country"]
       },
       {
-        "catId": 2,
+        "id": 2,
         "catTitle": "Formations",
         "type": "form",
         "body": ["From","To","Diploma","School","Degree level","Country"]
       },
       {
-        "catId": 3,
+        "id": 3,
         "catTitle": "Languages",
         "type": "form",
         "body": ["Language","Listened","Read","Spoken","Written"]
       },
       {
-        "catId": 4,
+        "id": 4,
         "catTitle": "Documents",
         "type": "card"
       },
       {
-        "catId": 5,
+        "id": 5,
         "catTitle": "Realisations",
         "type": "form",
         "body": ["Year","Duration","Name","Country","Experience","Culture","Description"]
       },
       {
-        "catId": 6,
+        "id": 6,
         "catTitle": "Motivations",
         "type": "text"
       }
