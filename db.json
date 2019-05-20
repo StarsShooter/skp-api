@@ -1,38 +1,39 @@
 {
-  "categories": [
+  "skills": [
       {
         "id": 1,
-        "catTitle": "Experiences",
-        "type": "form",
-        "body": ["From","To","Job","Company","Sector","Country"]
+        "skillName": "SK_MANAGEMENT",
+        "skillDesc": "SK_MANAGEMENT_DESC",
+        "idSubCategory": [1,3,5],
+        "image": "http://skillspot.com/images/skills/admin.png"
       },
       {
         "id": 2,
-        "catTitle": "Formations",
-        "type": "form",
-        "body": ["From","To","Diploma","School","Degree level","Country"]
+        "skillName": "SK_MEDICAL",
+        "skillDesc": "SK_MEDICAL_DESC",
+        "idSubCategory": [2,3,5],
+        "image": "http://skillspot.com/images/skills/medical.png"
       },
       {
         "id": 3,
-        "catTitle": "Languages",
-        "type": "form",
-        "body": ["Language","Listened","Read","Spoken","Written"]
+        "skillName": "SK_ADMIN",
+        "skillDesc": "SK_ADMIN_DESC",
+        "idSubCategory": [2,3,5],
+        "image": "http://skillspot.com/images/skills/admin.png"
       },
       {
         "id": 4,
-        "catTitle": "Documents",
-        "type": "card"
+        "skillName": "SK_IT",
+        "skillDesc": "SK_IT_DESC",
+        "idSubCategory": [2,3,5],
+        "image": "http://skillspot.com/images/skills/it.png"
       },
       {
         "id": 5,
-        "catTitle": "Realisations",
-        "type": "form",
-        "body": ["Year","Duration","Name","Country","Experience","Culture","Description"]
-      },
-      {
-        "id": 6,
-        "catTitle": "Motivations",
-        "type": "text"
+        "skillName": "SK_INDUSTRY",
+        "skillDesc": "SK_INDUSTRY_DESC",
+        "idSubCategory": [2,3,5],
+        "image": "http://skillspot.com/images/skills/industry.png"
       }
      ]
 }
